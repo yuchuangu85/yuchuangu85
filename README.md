@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!--右侧Github Stars统计-->
 <img src="https://github-readme-stats.vercel.app/api?username=yuchuangu85&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-### Hi there 👋, I'm MoXiang--Android developer
+### Hi there 👋, I'm MoXiang
 
 - 博客(Blog)：[http://codemx.cn/](http://codemx.cn/)
 - 开源项目：[Launcher3](https://github.com/Launcher3-dev/Launcher3) & [Launcher3-mx](https://github.com/Launcher3-dev/Launcher3-mx)
