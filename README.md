@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - 开源项目：[Launcher3](https://github.com/Launcher3-dev/Launcher3) & [Launcher3-mx](https://github.com/Launcher3-dev/Launcher3-mx)
 - 热衷开发，热爱分享。有关Launcher项目问题或者经验可以留言分享。
 
+<!--统计访问人数-->
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
-<!--右侧Github Stars统计-->
+<!--Github Stars统计-->
 <img src="https://github-readme-stats.vercel.app/api?username=yuchuangu85&show_icons=true&theme=dark" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
 <!--开发语言统计-->
