@@ -13,22 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-name: WakaTime Readme
-
-on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '0 19 * * *'
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
 <!--右侧Github Stars统计-->
 <img src="https://github-readme-stats.vercel.app/api?username=yuchuangu85&show_icons=true&theme=dark" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
