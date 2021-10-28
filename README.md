@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 <!--底部统计-->
-<img src="https://github-profile-trophy.vercel.app/?username=yuchuangu85&theme=flat&column=7&theme=dark" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=yuchuangu85&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
