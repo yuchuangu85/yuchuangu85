@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 热衷开发，热爱分享。有关Launcher项目问题或者经验可以留言分享。
 
 <!--统计访问人数-->
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=yuchuangu85.readme)
+![](http://antzuhl.cn:4000/get/@yuchuangu85.readme)
 
 <!--Github Stars统计-->
 <img src="https://github-readme-stats.vercel.app/api?username=yuchuangu85&show_icons=true&theme=dark" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
