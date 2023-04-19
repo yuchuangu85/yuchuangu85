@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 <!--统计访问人数-->
 ### ⚡ Visitor count
-![](https://visitor-badge.glitch.me/badge?page_id=yuchuangu85.readme)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuchuangu85.readme) -->
+![](https://profile-counter.glitch.me/yuchuangu85/count.svg)
 
 <!--Github Stars统计-->
 ![yuchuangu85's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchuangu85&show_icons=true&theme=radical&hide_border=true)
