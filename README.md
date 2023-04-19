@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 - 热衷开发，热爱分享。有关Launcher项目问题或者经验可以留言分享。
 
 <!--统计访问人数-->
+### ⚡ Visitor count
 ![](https://visitor-badge.glitch.me/badge?page_id=yuchuangu85.readme)
 
 <!--Github Stars统计-->
-![yuchuangu85's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchuangu85&show_icons=true&theme=radical)
+![yuchuangu85's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchuangu85&show_icons=true&theme=radical&hide_border=true)
 
 <!--开发语言统计-->
-![MoXiang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchuangu85&layout=compact&hide_border=true&langs_count=10)
+<!-- ![MoXiang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchuangu85&layout=compact&hide_border=true&langs_count=10) -->
+![](https://raw.githubusercontent.com/zhuzichu520/github-stats-transparent/output/generated/languages.svg)
 
 <!--底部统计-->
 <img src="https://github-profile-trophy.vercel.app/?username=yuchuangu85&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
