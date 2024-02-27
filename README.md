@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### Plan to Learn
 <!---API-->
 <!---https://shields.io/badges-->
-<span > <img src="https://img.shields.io/badge/-C++-E34F26?style=flat-square&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/-Swfit-1572B6?style=flat-square&logo=Swfit" />
+<span > <img src="https://img.shields.io/badge/-cplusplus-E34F26?style=flat-square&logo=C++&logoColor=white" /> <img src="https://img.shields.io/badge/-swfit-1572B6?style=flat-square&logo=Swfit" />
 </span>
 
 ### 
