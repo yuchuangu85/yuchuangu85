@@ -57,3 +57,7 @@ Here are some ideas to get you started:
 ### 
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph/-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuchuangu85&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Date)](https://star-history.com/#star-history/star-history&Date)
