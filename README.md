@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuchuangu85&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Star History
-
+<! --- https://star-history.com/# -->
 [![Star History Chart](https://api.star-history.com/svg?repos=Launcher3-dev/Launcher3&type=Date)](https://star-history.com/#Launcher3-dev/Launcher3&Date)
