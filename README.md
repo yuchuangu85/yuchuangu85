@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuchuangu85.readme) -->
 ![](https://profile-counter.glitch.me/yuchuangu85/count.svg)
 
-
-<a href="https://info.flagcounter.com/keGf"><img src="https://s01.flagcounter.com/count2/keGf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_66/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 <!--Github Stars统计-->
 ![yuchuangu85's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchuangu85&show_icons=true&theme=radical&hide_border=true)
 
