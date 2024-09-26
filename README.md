@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 ## Star History
 <!--- https://star-history.com/# -->
-[![Star History Chart](https://api.star-history.com/svg?repos=Launcher3-dev/Launcher3&type=Date)](https://star-history.com/#Launcher3-dev/Launcher3&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yuchuangu85/yuchuangu85&type=Date)](https://star-history.com/#yuchuangu85/yuchuangu85&Date)
