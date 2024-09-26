@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 ## Star History
 <!--- https://star-history.com/# -->
-[![Star History Chart](https://api.star-history.com/svg?repos=yuchuangu85/yuchuangu85&type=Date)](https://star-history.com/#yuchuangu85/yuchuangu85&Date)
+<!---[![Star History Chart](https://api.star-history.com/svg?repos=yuchuangu85/yuchuangu85&type=Date)](https://star-history.com/#yuchuangu85/yuchuangu85&Date)-->
