@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Love develop & share。You can discuss with me about Launcher for android。
 
 <!--统计访问人数-->
-### ⚡ Visitor count
+### ⚡ Thanks for visiting
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuchuangu85.readme) -->
 ![](https://profile-counter.glitch.me/yuchuangu85/count.svg)
 
