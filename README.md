@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm MoXiang
 
-- Blog：[http://codemx.cn/](http://codemx.cn/)
+- Blog：[https://codemx.cn/](https://codemx.cn/)
 - Open Source：[Launcher3](https://github.com/Launcher3-dev/Launcher3) & [Launcher3-mx](https://github.com/Launcher3-dev/Launcher3-mx)
 - Love develop & share。You can discuss with me about Launcher for android。
 
