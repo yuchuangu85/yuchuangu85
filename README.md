@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 ### Mastered the language
 <!---API-->
 <!---https://shields.io/badges-->
-<span > <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-C-1572B6?style=flat-square&logo=C" /> <img src="https://img.shields.io/badge/-Kotlin-oringe?style=flat-square&logo=Kotlin" /> 
+<span > <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-Kotlin-oringe?style=flat-square&logo=Kotlin" /> 
 </span>
 
 ### Learning
 <!---API-->
 <!---https://shields.io/badges-->
-<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python&color=yellow" /> <img src="https://img.shields.io/badge/-Flutter-oringe?style=flat-square&logo=flutter&color=gray" /> <img src="https://img.shields.io/badge/-rust-oringe?style=flat-square&logo=Rust" />
+<span > <img src="https://img.shields.io/badge/-C-1572B6?style=flat-square&logo=C" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python&color=yellow" /> <img src="https://img.shields.io/badge/-Flutter-oringe?style=flat-square&logo=flutter&color=gray" /> <img src="https://img.shields.io/badge/-rust-oringe?style=flat-square&logo=Rust" />
 </span>
 
 
