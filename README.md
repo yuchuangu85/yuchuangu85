@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuchuangu85.readme) -->
 ![](https://profile-counter.glitch.me/yuchuangu85/count.svg)
 
-<!--Github Stars统计-->
-![yuchuangu85's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchuangu85&show_icons=true&theme=radical&hide_border=true)
-
 <!--开发语言统计-->
 <!-- ![MoXiang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchuangu85&layout=compact&hide_border=true&langs_count=10) -->
 ![](https://raw.githubusercontent.com/zhuzichu520/github-stats-transparent/output/generated/languages.svg)
